@@ -24,6 +24,8 @@ namespace ASPNetMVCExtendingIdentity2Roles.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            // testing 
+
             return View();
         }
     }
